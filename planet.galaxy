@@ -1,0 +1,13 @@
+class Planet {
+    function rotate() {
+        print("Rotating...");
+    }
+}
+
+Planet earth = new Planet();
+earth.rotate();
+
+y = 10;
+if y < 15 {
+    print("y is small");
+}
