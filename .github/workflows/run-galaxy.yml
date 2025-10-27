@@ -8,7 +8,7 @@ on:
 
 jobs:
   run-galaxy:
-    runs-on: windows 11
+    runs-on: windows-latest
 
     steps:
       - name: Checkout repository
