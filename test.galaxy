@@ -1,0 +1,19 @@
+print("Hello Galaxy!")
+
+class Star {
+    function shine() {
+        print("Shining...");
+    }
+}
+
+Star sun = new Star();
+sun.shine();
+
+x = 5;
+if x > 3 {
+    print("x is big");
+}
+
+for i = 1 to 3 {
+    print(i);
+}
