@@ -21,4 +21,4 @@ jobs:
 
       - name: Run Galaxy Interpreter
         run: |
-          python galaxy_interpreter.py test.galaxy
+          python galaxy_interpreter.py planet.galaxy
